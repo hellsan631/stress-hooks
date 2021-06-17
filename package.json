@@ -10,10 +10,10 @@
     "lodash": "^4.17.11",
     "prism-react-renderer": "^0.1.6",
     "prismjs": "^1.16.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8",
-    "react-simple-code-editor": "^0.9.10",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.0",
+    "react-simple-code-editor": "^0.11.0",
     "retrieve-arguments": "^1.0.1"
   },
   "scripts": {
